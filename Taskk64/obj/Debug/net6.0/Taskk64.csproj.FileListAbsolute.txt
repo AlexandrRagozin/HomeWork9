@@ -1,0 +1,15 @@
+C:\GeekBrains\Itogovaya9\Taskk64\bin\Debug\net6.0\Taskk64.exe
+C:\GeekBrains\Itogovaya9\Taskk64\bin\Debug\net6.0\Taskk64.deps.json
+C:\GeekBrains\Itogovaya9\Taskk64\bin\Debug\net6.0\Taskk64.runtimeconfig.json
+C:\GeekBrains\Itogovaya9\Taskk64\bin\Debug\net6.0\Taskk64.dll
+C:\GeekBrains\Itogovaya9\Taskk64\bin\Debug\net6.0\Taskk64.pdb
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.csproj.AssemblyReference.cache
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.AssemblyInfoInputs.cache
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.AssemblyInfo.cs
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.dll
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\refint\Taskk64.dll
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.pdb
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\Taskk64.genruntimeconfig.cache
+C:\GeekBrains\Itogovaya9\Taskk64\obj\Debug\net6.0\ref\Taskk64.dll
